@@ -1,9 +1,22 @@
-### Hi there 👋
+# Hey Man 👋
+## Welcome  to my homepage
 
-<!--
-**flyhyy/flyhyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+  function main(){
+    return 'Hello World'
+  }
+  main()
+```
 
-Here are some ideas to get you started:
+> ![Visitor Count](https://profile-counter.glitch.me/flyhyy/count.svg)
+### 👉 [This is my personal website](http://www.huolazi.top/)
+### Email: <newflyhuang@gmail.com>
+
+> ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyhyy&show_icons=true&theme=tokyonight)
+
+
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyhyy&layout=compact&theme=tokyonight)
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +25,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+
+
+ 
